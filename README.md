@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
 <h3 align="center">A passionate sotfware developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vankenobi&label=Profile%20views&color=0e75b6&style=flat" alt="vankenobi" /> </p>
-
 - 🌱 I’m currently learning **.NET CORE,Vue.js,Docker**
 
 - 📫 How to reach me **musakucuk99@gmail.com**
