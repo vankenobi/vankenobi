@@ -17,11 +17,14 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-  <a href="https://www.hackerrank.com/musakucuk99" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="musakucuk99" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/musakucuk99" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-   badge&logo=HackerRank&logoColor=white" alt="musakucuk99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/musakucuk99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="musakucuk99" height="30" width="40" /></a>
 </div>
 
