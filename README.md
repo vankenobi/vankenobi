@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET CORE, Vue.js, Docker**
 
-- 📫 How to reach me <a href = "mailto: musakucuk99@gmail.com">Send Email</a> ****
+- 📫 How to reach me <a href = "mailto: musakucuk99@gmail.com">Send Email</a>
 
 
 <h3 align="left">Connect with me:</h3>
