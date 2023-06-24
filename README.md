@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
-<h3 align="center">A passionate sotfware developer from Turkey</h3>
+<h3 align="center">A passionate sotfware developer</h3>
 
 - 🌱 I’m currently learning **.NET CORE, Vue.js, Docker**
 
