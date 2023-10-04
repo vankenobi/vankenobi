@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
-<h3 align="center">A passionate sotfware developer</h3>
-
-- 🌱 I’m currently learning **.NET CORE, Vue.js, Docker**
+<h3 align="center">A sotfware developer</h3>
 
 - 📫 How to reach me : <a href = "mailto: musakucuk99@gmail.com">Send email</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
